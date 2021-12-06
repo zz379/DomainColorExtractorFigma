@@ -1,5 +1,5 @@
 {
-    "name": "MainColorExtractor",
+    "name": "Domain Color",
     "id": "981802768922306829",
     "api": "1.0.0",
     "main": "dist/code.js",
